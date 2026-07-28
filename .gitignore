@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+data/uploads/*
+data/archive/*
+data/results/*
+!data/uploads/.gitkeep
+!data/archive/.gitkeep
+!data/results/.gitkeep
+.env
